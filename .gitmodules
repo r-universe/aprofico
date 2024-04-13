@@ -5,6 +5,9 @@
 [submodule "Arothron"]
 	path = Arothron
 	url = https://github.com/cran/Arothron
+[submodule "Toothnroll"]
+	path = Toothnroll
+	url = https://github.com/cran/Toothnroll
 [submodule "morphomap"]
 	path = morphomap
 	url = https://github.com/cran/morphomap
